@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=class\ Cake
+comment1.target=height
+comment2.target=x
+comment3.target=width
+comment4.params=rows\ total
+comment4.target=void\ cutRows(int,int)
+comment4.text=\ncutRows()\ method\nTakes\ in\ two\ parameters,\ rows\ and\ total.\ \ The\ rows\ will\ note\ how\nmany\ rows\ we\ should\ cut.\ The\ number\ of\ pieces\ in\ each\ row\ should\ \nbe\ the\ square\ root\ of\ the\ total.\ \ The\ rows\ times\ the\ square\ \nroot\ of\ the\ total\ should\ be\ the\ number\ of\ pieces\ we\ should\ cut.\n\nCheck\ for\ perfect\ square\ again.\ \ If\ invalid,\ let\ the\ user\ know.\n\n
+comment5.params=total
+comment5.target=void\ cut(int)
+comment5.text=\ncut()\ method\nTakes\ in\ one\ parameter,\ total,\ which\ should\ be\ a\ perfect\ \nsquare\ such\ as\ 4,\ 9,\ 16,\ 25,\ 36,\ 49,\ 64,\ 81,\ 100...\nIf\ not,\ the\ user\ will\ be\ given\ a\ little\ error\ message.\n\nThis\ method\ will\ then\ create\ lines\ to\ show\ where\ the\ \ncake\ should\ be\ cut\ for\ even\ pieces.\n\n
+comment6.params=
+comment6.target=Cake()
+comment6.text=\nCake()\ default\ contructor\nSet\ the\ Cakes\ dimensions\ to\ preset\ values.\n\n
+comment7.params=x\ y\ width\ height
+comment7.target=Cake(int,int,int,int)
+comment7.text=\nCake()\ alternate\ contructor\nSet\ the\ Cakes\ dimensions\ to\ values\ specified\ by\ the\ user\ \n\n@param\ \ \ x\ \ \ \ \ \ \ x-coordinate\ of\ the\ center\ of\ the\ Cake\n@param\ \ \ y\ \ \ \ \ \ \ y-coordinate\ of\ the\ center\ of\ the\ Cake\n@param\ \ \ width\ \ \ width\ of\ the\ Cake\n@param\ \ \ height\ \ height\ of\ the\ Cake\n\n
+comment8.target=y
+numComments=9
